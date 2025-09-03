@@ -1,3 +1,5 @@
+                                                            PASSWORD GENERATOR
+
 This is a Python GUI application built using Tkinter that generates strong random passwords.
 
 It ensures that each password contains at least:
